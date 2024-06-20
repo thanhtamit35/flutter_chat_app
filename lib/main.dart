@@ -3,8 +3,8 @@ import 'package:chat_app/utils.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-void main() {
-  // await setUp();
+void main() async {
+  await setUp();
   runApp(MyApp());
 }
 

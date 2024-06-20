@@ -47,6 +47,7 @@ dependencies:
   path: ^1.8.3
   fluttertoast: ^8.2.5
   logger: ^2.3.0
+  change_app_package_name: ^1.2.0
 
 dev_dependencies:
   flutter_test:

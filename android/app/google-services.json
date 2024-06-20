@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116434851486",
+    "project_id": "chat-app-f667e",
+    "storage_bucket": "chat-app-f667e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116434851486:android:0f33962afe8cb77dfd0d8f",
+        "android_client_info": {
+          "package_name": "com.ntt.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaVSZAJhmPEcPfbCndUXRuUUf9k4xCfHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
